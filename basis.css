@@ -11,11 +11,11 @@ background: #000000;
 
 img { 
 height: auto;
-max-width: 80%;
+max-width: 50%;
 }
 
 #kop { 
-height: 40%;
+height: 150px;
 text-align: center; 
 background-color: #000000;
 } 
