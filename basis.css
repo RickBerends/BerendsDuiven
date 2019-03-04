@@ -9,16 +9,18 @@ background: #000000;
 
 }
 
-#kop { 
-height: 300px;
-margin: 0 left;
-background-color: white;
-} 
-
-#img { 
+img { 
 height: auto;
 max-width: 100%;
 }
+
+
+#kop { 
+height: 300px;
+text-align: center; 
+background-color: #000000;
+} 
+
 
 
 
