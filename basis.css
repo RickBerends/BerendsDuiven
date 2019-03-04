@@ -5,27 +5,24 @@ padding: 0;
 
 body { 
 margin: 0;
-background: #A0DCF8 url(duiven.png) repeat-y 1152px 0px;
+background: #000000;
 
 }
 
 #kop { 
-width: 1152px;
-height: 52px;
+width: 100%;
+height: 10%;
 margin: 0 left;
-background-color: grey;
-border-right: 1px solid black;
-border-left: 1px solid black;
-border-top: 1px solid black;
+background-color: white;
 } 
 
 #kop p {
 font-family: Verdana;
 font-size: 40px;
 font-weight: bold;
-text-align: center;
+text-align: right;
 margin: auto;
-color: white;
+color: black;
 font-variant: small-caps;
 padding-bottom:1px solid black
 padding-left:2px solid black
