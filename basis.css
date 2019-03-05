@@ -6,6 +6,8 @@ padding: 0;
 body { 
 margin: 0;
 background: #FFFFFF url("animal-avian-beak-1884017.jpg") no-repeat center fixed;
+max-width: 100%;
+height: auto;
 
 }
 
