@@ -20,8 +20,9 @@ max-width: 100%;
 
 #menu { 
 height: 10%;
-width: 100%;
+width: 50%;
 background-color: #FFFFFF;
+float: right;
 } 
 
 #menu ul { 
