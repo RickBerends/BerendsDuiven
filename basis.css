@@ -15,7 +15,7 @@ max-width: 100%;
 }
 
 #menu { 
-height: 80px;
+height: 100px;
 width: 50%;
 background-color: #FFFAFA;
 float: right;
@@ -35,7 +35,7 @@ display: block;
 width: 20%;
 height: 100px;
 text-align: center;
-vertical-align: center;
+padding-top: 25%;
 font-size: 40px;
 text-decoration: none;
 text-transform: uppercase;
