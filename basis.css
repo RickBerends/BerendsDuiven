@@ -14,6 +14,43 @@ height: auto;
 max-width: 100%;
 }
 
+#menu { 
+height: 26px;
+width: 100%;
+background-color: #FFFFFF;
+} 
+
+#menu ul { 
+list-style-type: none;
+}
+
+#menu li { 
+float: left;
+width: 20%;
+}
+
+#menu li a {
+display: block;
+width: 20%;
+height: 22px;
+padding-top: 4px;
+text-align: center;
+font-size: 14px;
+text-decoration: none;
+text-transform: uppercase;
+color: black;
+font-weight: bold;
+}
+
+#menu li a:hover {
+background-color: blue;
+}
+
+#menu li a li{ 
+clear:both;
+} 
+
+
 #kop { 
 padding-left: 10%;
 padding-right: 10%;
