@@ -15,7 +15,7 @@ max-width: 100%;
 }
 
 #menu { 
-height: 30%;
+height: 100px;
 width: 50%;
 background-color: #FFFAFA;
 float: right;
@@ -33,7 +33,7 @@ width: 20%;
 #menu li a {
 display: block;
 width: 20%;
-height: 10%;
+height: 100px;
 padding-top: 4px;
 text-align: center;
 font-size: 14px;
@@ -60,7 +60,7 @@ background-color: #FFFAFA;
 } 
 
 #menu2 { 
-height: 30%;
+height: 100px;
 width: 50%;
 background-color: #FFFAFA;
 float: left;
