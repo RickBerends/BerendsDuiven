@@ -5,7 +5,7 @@ padding: 0;
 
 body { 
 margin: 0;
-background-image: url("animal-avian-beak-1884017.jpg") no-repeat center fixed;
+background-color: #FFFAFA
 
 }
 
@@ -17,7 +17,7 @@ max-width: 100%;
 #menu { 
 height: 10%;
 width: 50%;
-background-color: #FFFFFF;
+background-color: #FFFAFA;
 float: right;
 } 
 
