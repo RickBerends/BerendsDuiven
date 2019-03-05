@@ -5,11 +5,7 @@ padding: 0;
 
 body { 
 margin: 0;
-background: #FFFFFF;
-background-image: url("animal-avian-beak-1884017.jpg");
-background-repeat: no-repeat;
-background-position: center;
-background-attachment: fixed;
+background: #FFFFFF url("animal-avian-beak-1884017.jpg") no-repeat center fixed;
 
 }
 
