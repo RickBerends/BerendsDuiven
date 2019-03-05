@@ -6,6 +6,12 @@ padding: 0;
 body { 
 margin: 0;
 background: #FFFFFF;
+background-image: animal-avian-beak-1884017.jpg;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+padding-left: 10%;
+padding-right: 10%;
 
 }
 
